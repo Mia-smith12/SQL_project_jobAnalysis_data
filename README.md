@@ -38,14 +38,16 @@ Here is how I aproached each problem:
 
 5. I combined skill demand and salary data to find the most valuable skills for data analysts—those that are both highly requested by employers and associated with higher‑than‑average salaries. By calculating demand counts and average salaries separately, then joining them together, I identified the skills that offer the strongest mix of job security and earning potential.
 
-Here’s a quick view of the top data analyst roles from 2023:
+Here’s a quick view of the top data analyst roles from 2023, along with the skills most in demand:
 
 - **Wide Salary Range**: The top 10 roles span from $184,000 to $650,000, highlighting the strong earning potential in the field.
 
 - **Diverse Employers**: Companies such as SmartAsset, Meta, and AT&T offer these high‑paying positions, showing broad industry demand.
 
 - **Varied Job Titles**: Roles range from Data Analyst to Director of Analytics, reflecting the wide spectrum of responsibilities and specializations available.
-
+  
+- **In Demand Skills**:  Core skills across these roles include SQL, Python, Tableau, and Excel, which remain foundational for analytics work.
+  
 # What I learned
 - **Complex Query Building**
 
